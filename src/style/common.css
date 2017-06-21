@@ -1,0 +1,10 @@
+
+ .navbar{
+   margin-bottom: 0px;
+  }
+html,body{
+	height: 100%;
+	width: 100%;
+}
+html { font: menu; }
+body { font-size: 16px; }
